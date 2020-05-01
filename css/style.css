@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body.eeffee{
+	background-color: #eeffee;
+	color: black;
+	font-size: 130%;
+	text-align: center;
+}
+
+button.std{
+	font-size: 90%;
+	background-color: #afeeee;
+	border-radius: 15px;
+}
+
+#canvas_e{
+	border: 4px solid #555;
+}
