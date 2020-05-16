@@ -8,12 +8,6 @@ body.eeffee{
 	text-align: center;
 }
 
-button.std{
-	font-size: 90%;
-	background-color: #afeeee;
-	border-radius: 15px;
-}
-
 #canvas_e{
 	border: 4px solid #555;
 }
